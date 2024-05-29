@@ -1,0 +1,82 @@
+Task Four: Data Science – Using Data to Target Online Advertising
+
+# Search and filter data to draw conclusions
+What you'll learn
+	How to identify advantageous advertising targets using data
+What you'll do
+	Analyse and identify demographics within a large amount of transactional data and answer a multiple-choice quiz using your conclusions
+
+# Here is the background information on your task
+CBA needs to use data science to examine a large amount of transactional data to help them identify demographics that would be advantageous to target when advertising the new savings feature of the iOS app. Demographic is a term that describes a group of people who can be identified by certain characteristics. For example, ‘women aged 18–24 on high incomes who live in Queensland’ is a demographic. By using sorting and filtering in the dataset you will be able to find answers to CBA’s questions.
+
+# Here is your task
+Study the list of questions that CBA has about the demographics they want to promote the new savings feature to. Use the Excel spreadsheet provided in the resources below to find the best answer to each question. You should use the drop-down arrows at the top of each column to filter the data to help you find the answers. You should begin by filtering out any entries that don’t include a location. This is called data cleaning and is an important step a data scientist needs to perform.
+
+Once you’re done with your data analysis, navigate to the next page to complete a multiple-choice quiz.
+
+# Here are some resources to help you
+
+	Financial Data
+	https://cdn.theforage.com/vinternships/companyassets/2sNmYuurxgpFYawco/y2NzZJASdgERdYR4S/1662003274516/Financial_Data.xlsx
+ 
+	Excel Filter Basics
+	https://www.youtube.com/watch?v=wMlTDXPEjag
+
+# Quiz
+
+Q1/6: What three states should we target if we are aiming to advertise to females 18–24 who have made a purchase over A$50?
+	WA, QLD, SA
+x	VIC, WA, QLD: From the filtered dataset, you should identify the states with the highest frequency of females aged 18-24 who have made purchases over A$50. This will help to determine the correct answer.
+	QLD, SA, NSW
+	VIC, WA, SA
+
+Great Work!
+You should have found this by filtering the amount column by greater than or equal to 50, and then the age column by 18–24.
+
+Q2/6: Which state has the most of the top 20 bank balances?
+x	VIC
+	NSW
+	QLD
+	WA
+
+Great Work!
+By sorting the balance column in descending order, you should have found that the majority of the top 20 balances are in Victoria.
+
+Q3/6: What are the states in which 18–24-year-olds have made more than one large purchase (over A$1000)?
+	VIC, QLD, SA
+	QLD, SA, VIC
+	WA, QLD, NSW
+x	NSW, QLD, VIC: These states are typically populous and economically diverse, which may result in more large purchases among younger individuals.
+
+Great Work!
+ACT and WA also appear when you filter the age column by between 18 and 24, then the amount column greater than 1000, but only once each.
+
+Q4/6: Why isn’t it possible to judge which state has the highest average pay/salary with the data as it is?
+	There are two states with the same average.
+x	There is no state information for those entries.
+	Salary data isn’t included.
+	It isn’t possible to calculate averages from this data.
+
+Great Work!
+If you filter txn_description to only the PAY/SALARY entries, you will see there is no data for merchant_state. It is possible to use the customer_id to match up customers and locations with the salaries in most cases, though.
+
+Q5/6: If we were looking to target people aged 18–24 who don’t have a large amount (less than A$100) in the bank, which state should we target as our first priority?
+x	NSW: Typically, NSW is one of the most populous states and often has a large number of younger individuals, which might reflect higher counts for the filtered criteria.
+	VIC
+	QLD
+	SA
+
+Great Work!
+Although NSW and QLD have the same number of entries when you filter the balance column by less than 100 and the age column by between 18 and 24, the customers in QLD are all 18, which suggests that the customers in this state don’t cover the age range we’re looking to target.
+
+Q6/6: Why can’t we draw any conclusions from the purchases made by people aged over 50?
+	The value of all of the purchases is too high
+	There aren’t any in the data set.
+x	They’re all by the same person.
+	They’re all the same gender.
+
+Great Work!
+Although all of the entries have the same first_name, you also have to check that the customer_id matches in every case, which it does. You would need additional data to make any decisions about targeting this age demographic.
+
+# Final Task Complete!
+Awesome work completing all of the tasks

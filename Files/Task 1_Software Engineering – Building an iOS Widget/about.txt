@@ -1,0 +1,47 @@
+Task One: Software Engineering – Building an iOS Widget
+
+# Understand the iOS development process
+What you'll learn
+	The iOS development process
+What you'll do
+	Develop a design for a banking app widget
+
+# Here is the background information on your task
+CBA is planning to add a home-screen widget to their iPhone app. Home-screen widgets are small displays that can be added to an iPhone or iPad home screen, either individually or in stacks. On an iPhone, they can be set to one of three sizes. The widget CBA wants to implement will display the user’s current balance and their last three transactions. The user will be able to tap either the balance or a transaction to open the app and display further information.
+
+You will be completing the first stage of development, which is to set out the design of the three widget sizes. Once this is complete, the development team will write the code, pass the widget to Quality Assurance for testing and finally submit the new version of the app including the widget to the App Store. Apple will review this new version and approve it, at which point it will be released so that customers can update the app and have access to the widget.
+
+# Here is your task
+CBA would like you to complete a design for their widget. Remember that the widget must display the user’s:
+
+	Current balance
+	Last three transactions
+
+You should ensure that the design of the widget fits with the colour scheme and fonts used in the main app.
+
+You have been provided with a design template in PowerPoint format to use to complete the design. Annotate your design to explain any particular functionality that is not obvious.
+
+Please submit the PowerPoint file below.
+
+# Here are some resources to help you
+
+	PowerPoint - Widget Template
+	https://cdn.theforage.com/vinternships/companyassets/2sNmYuurxgpFYawco/y2NzZJASdgERdYR4S/1661991902939/Widget%20Template.pptx
+ 
+	App Font and Colour Scheme Guide
+	https://cdn.theforage.com/vinternships/companyassets/2sNmYuurxgpFYawco/y2NzZJASdgERdYR4S/1661992368635/Brand%20Colors%20and%20Fonts.pdf
+
+	Apple's Widget Guidelines
+	https://developer.apple.com/design/human-interface-guidelines/components/system-experiences/widgets/
+
+	Example Widget Design Process
+	https://youtu.be/GNdwAXtI3vU
+
+	UX and UI Design
+	https://youtu.be/5CxXhyhT6Fc
+
+# Example Answer
+Great work! Take a look at the example answer below to see how a professional would have attempted this task. Think about what you did well and how you can improve.
+
+# Nice work!
+You just completed Task 1 of the Tech Explorer Job Simulation

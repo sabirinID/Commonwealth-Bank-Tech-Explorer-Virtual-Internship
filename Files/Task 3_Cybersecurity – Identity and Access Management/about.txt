@@ -1,0 +1,34 @@
+Task Three: Cybersecurity – Identity and Access Management
+
+# Keeping data and users safe and secure
+What you'll learn
+	How to keep data and users safe and secure
+What you'll do
+	Identify which groups should or should not have access to particular tools
+
+# Here is the background information on your task
+The iOS engineering team has been established in CBA for some time now, and the business feels that now is a good time to review IAM within the team. There are a variety of tools being used that require various levels of access, such as Jira, GitHub, Confluence and Xcode. We would like you to review the current state of IAM for Confluence, then tell us what permissions each type of user should have.
+
+Confluence is a web-based wiki used by CBA to manage and organise documentation such as project plans, meeting notes and more. It allows the iOS engineering team to work on documents at the same time and share information with each other. Confluence is organised into spaces, which are groups of related pages. There is an iOS Engineering space for the team to use.
+
+# Here is your task
+Study the Confluence Access document in the resources below. Once you think you are ready, complete the Permissions Table template by colour-coding each box with green for permissions that each user group should have and red for permissions they should not have.
+
+Once you’ve completed the permissions table, submit your file below.
+
+# Here are some resources to help you
+
+	Confluence Access
+	https://cdn.theforage.com/vinternships/companyassets/2sNmYuurxgpFYawco/y2NzZJASdgERdYR4S/1662002788733/Confluence%20Access.docx.pdf
+
+	Permissions Table Template
+	https://cdn.theforage.com/vinternships/companyassets/2sNmYuurxgpFYawco/y2NzZJASdgERdYR4S/1662002874399/Permissions%20Table.docx
+
+# Example Answer
+Great work! Take a look at the example answer below to see how a professional would have attempted this task. Think about what you did well and how you can improve.
+
+	Task 3 - Example Answer
+	https://cdn.theforage.com/vinternships/companyassets/2sNmYuurxgpFYawco/y2NzZJASdgERdYR4S/1694197167076/Task%203%20-%20Example%20Answer.pdf
+
+# Nice work!
+You just completed Task 3 of the Tech Explorer Job Simulation

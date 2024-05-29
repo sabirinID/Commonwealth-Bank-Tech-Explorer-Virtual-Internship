@@ -1,0 +1,98 @@
+Task Two: Tech Analysis – Requirements Gathering
+
+# Coordinating the needs of stakeholders and users
+What you'll learn
+	How to coordinate the needs of stakeholders and users
+What you'll do
+	Complete a requirements gathering report for CBA's new app
+
+# Here is the background information on your task
+CBA wants to add a new savings feature to their iOS app. This feature will allow customers to set aside regular savings towards a goal and receive a notification when they have reached that goal. Your job is to perform requirements gathering. This will involve reading and listening to the views of the senior, product and engineering teams on what the feature should include. You will need to judge whether all of the expectations of the senior and product teams can be met by the engineering team. Once you have established what will be included in the feature, you will write user stories and set out a ‘definition of done’ using the behaviour-driven development (BDD) style.
+
+# Here is your task
+There are five steps to the process:
+
+1. Understand the need for the feature
+
+Read and listen to the information from each team using the resources provided below.
+
+2. Identify any confusion in language
+
+For example, does one team refer to ‘buttons’ and another ‘switches’
+
+3. Identify edge cases  
+?   For example, what if a customer can’t afford to save that week?
+
+4. Write user stories
+	User stories with examples and a template
+	https://www.atlassian.com/agile/project-management/user-stories
+
+For example, ‘As a user, I want to save money each month, so that I can afford a special purchase’.
+
+5. Write a definition of done using BDD
+	Definition of Done - The What and Why and How to Grow One
+	https://www.nimblework.com/agile/definition-of-done/
+
+	The beginner's guide to BDD (behaviour-driven development)
+	https://inviqa.com/blog/bdd-guide
+
+For example, given that I am selecting my saving amount, when I tap the up arrow, then the savings amount increases by A$5.
+You should use the requirements gathering report template to record your findings.
+
+Once you’ve completed the task, submit your file below.
+
+# Here are some resources to help you
+
+	Email from CEO
+	https://cdn.theforage.com/vinternships/companyassets/2sNmYuurxgpFYawco/y2NzZJASdgERdYR4S/1661994650762/CEO%20email.pdf
+
+	Product Team Meeting Transcript
+	https://cdn.theforage.com/vinternships/companyassets/2sNmYuurxgpFYawco/y2NzZJASdgERdYR4S/1661994763651/Product%20Team%20Meeting.pdf
+
+	Product Owner and Mobile Engineer Meeting Transcript
+	https://cdn.theforage.com/vinternships/companyassets/2sNmYuurxgpFYawco/y2NzZJASdgERdYR4S/1661994936654/Product%20Owner%20Mobile%20Engineer%20Meeting.pdf
+
+	Requirements Gathering Report Template
+	https://cdn.theforage.com/vinternships/companyassets/2sNmYuurxgpFYawco/y2NzZJASdgERdYR4S/1661995000634/Requirements%20Gathering%20Template.docx
+
+# Example Answer
+Great work! Take a look at the example answer below to see how a professional would have attempted this task. Think about what you did well and how you can improve.
+
+Requirements Gathering: Savings Accounts
+
+1. Understanding the need for the feature
+
+CBA would like to introduce the savings feature to help integrate CBA and the iOS app into customers’ lives and promote the idea of saving towards a goal. The feature will also contribute toward CBA’s goal of being Australia’s most accessible bank.
+
+2. Identify confusion in language 
+
+There is some confusion around notifications. The senior and product teams use the term ‘phone notifications’ repeatedly. The engineering team clarified that if the notification is being sent from CBA’s servers, then ‘remote notification’ is the correct term.
+
+3. Identify edge cases 
+
+What if the user cancels the creation of a savings account? 
+What if the user tries to create two savings accounts with the same name? 
+What if the user cannot afford to save in a particular month?
+
+4. User stories 
+
+As a CBA app user, I want to be able to set up a regular savings account towards a goal, so that I can afford a special purchase. 
+
+As a CBA app user, I want to name the account, so that I can remember what I am saving towards. 
+
+As a CBA app user, I want to choose the target savings amount for the account, so that I know when I have reached the goal.
+
+5. Definition of done 
+
+‘As a CBA app user, I want to choose the target savings amount for the account, so that I know when I have reached the goal.’ 
+
+Given that I am setting a savings goal, when I tap the ‘up’ arrow next to the amount, then the amount increases by A$5. 
+
+Given that I am setting a savings goal, when I tap the ‘down’ arrow next to the amount, then the amount decreases by A$5. 
+
+Given that I am setting a savings goal, when I tap on the amount, then the numeric keyboard appears. 
+
+Given that the keyboard is on screen, when I type an amount, then the savings goal updates to that amount.
+
+# Nice work!
+You just completed Task 2 of the Tech Explorer Job Simulation
