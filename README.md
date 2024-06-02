@@ -1,2 +1,5 @@
-# Commonwealth Bank Tech Explorer Virtual Internship
+# Commonwealth Bank Tech Explorer
+
+Help launch a new banking app across four Commonwealth Bank Technology teams!
  
+# 
