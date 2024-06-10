@@ -25,3 +25,6 @@ Help launch a new banking app across four Commonwealth Bank Technology teams!
    > Search and filter data to draw conclusions
 
 ## References
+
+1. [Apple's Widget Guidelines](https://developer.apple.com/design/human-interface-guidelines/components/system-experiences/widgets/)
+2. 
