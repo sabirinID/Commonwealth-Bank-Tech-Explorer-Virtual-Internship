@@ -27,4 +27,6 @@ Help launch a new banking app across four Commonwealth Bank Technology teams!
 ## References
 
 1. [Apple's Widget Guidelines](https://developer.apple.com/design/human-interface-guidelines/components/system-experiences/widgets/)
-2. 
+2. [Definition of Done - The What and Why and How to Grow One](https://www.nimblework.com/agile/definition-of-done/)
+3. [The beginner's guide to BDD (behaviour-driven development)](https://inviqa.com/blog/bdd-guide)
+4. 
